@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "future": "cpp",
+        "system_error": "cpp",
+        "*.contiki": "c",
+        "spi_master.h": "c",
+        "esp_spi_flash.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
